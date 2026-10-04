@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Banknote -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M20,35H75C77.76,35 80,37.24 80,40V65C80,67.76 77.76,70 75,70H20C17.24,70 15,67.76 15,65V40C15,37.24 17.24,35 20,35ZM20,38C18.9,38 18,38.9 18,40V65C18,66.1 18.9,67 20,67H75C76.1,67 77,66.1 77,65V40C77,38.9 76.1,38 75,38H20Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M47.5,52.5m-8.5,0a8.5,8.5 0,1 1,17 0a8.5,8.5 0,1 1,-17 0" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M23,43m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M72,43m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M23,62m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M72,62m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+
+    <!-- Coins stack -->
+    <!-- Bottom coin -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M60,70C60,66.69 67.83,64 77.5,64C87.17,64 95,66.69 95,70V76C95,79.31 87.17,82 77.5,82C67.83,82 60,79.31 60,76V70Z" />
+    <!-- Middle coin -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M65,60C65,56.69 72.83,54 82.5,54C92.17,54 100,56.69 100,60V66C100,69.31 92.17,72 82.5,72C72.83,72 65,69.31 65,66V60Z" />
+    <!-- Top coin -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M61,50C61,46.69 68.83,44 78.5,44C88.17,44 96,46.69 96,50V56C96,59.31 88.17,62 78.5,62C68.83,62 61,59.31 61,56V50Z" />
+</vector>

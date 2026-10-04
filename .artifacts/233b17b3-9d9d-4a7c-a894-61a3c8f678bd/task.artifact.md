@@ -1,0 +1,9 @@
+- [x] Initialize new Flutter project "Data Konstruksi"
+- [x] Set up Supabase configuration (URL & Key matching Android)
+- [x] Define Data Models (Dart)
+- [x] Implement macOS-style Sidebar (Glassmorphism & Cupertino Icons)
+- [x] Implement macOS-style Dashboard (Clean UI & SF Symbols)
+- [x] Implement macOS-style Attendance Table
+- [ ] Implement SupabaseService (CRUD with specific table names)
+- [ ] Connect UI to SupabaseService
+- [ ] Web Build & Optimization

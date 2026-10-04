@@ -1,0 +1,3 @@
+- [x] Remove `DateRangeFilter` from `ClassificationScreen.kt` for Periode 4
+- [x] Verify changes
+- [x] Create walkthrough
